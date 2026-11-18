@@ -1,0 +1,6 @@
+{
+  "name": "AKUBOT",
+  "description": "Bank Soal & Kunci Jawaban Offline dengan pencarian Exact, Kemiripan TF-IDF, dan Kata Kunci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AKUBOT</string>
+    <string name="brand_title">AKUBOT</string>
+    <string name="brand_badge">FT</string>
+    <string name="brand_subtitle">Bank Soal &amp; Kunci Jawaban Offline</string>
+    <string name="status_offline">Offline</string>
+    <string name="search_placeholder">Ketik atau tempel soal di sini...</string>
+    <string name="search_modes_caption">Exact • Kemiripan TF-IDF • Kata Kunci</string>
+    <string name="action_search">Cari</string>
+    <string name="action_clear_search">Hapus pencarian</string>
+    <string name="stat_saved_questions">Soal Tersimpan</string>
+    <string name="stat_source_docs">Dokumen Sumber</string>
+    <string name="section_main_menu">Menu Utama</string>
+    <string name="menu_upload">Upload</string>
+    <string name="menu_database">Database</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="menu_history">Riwayat</string>
+    <string name="nav_home">Beranda</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_exact">Sama Persis</string>
+    <string name="filter_tfidf">Kemiripan Makna</string>
+    <string name="filter_keyword">Kata Kunci</string>
+    <string name="cd_favorite_toggle">Ubah status favorit</string>
+    <string name="cd_edit_question">Edit soal dan kunci jawaban</string>
+    <string name="cd_delete_item">Hapus item</string>
+    <string name="cd_back">Kembali</string>
+</resources>
